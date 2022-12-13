@@ -1,0 +1,17 @@
+{
+  "name": "deelake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ignite": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
